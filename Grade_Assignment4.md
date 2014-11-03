@@ -10,6 +10,6 @@ If Program is not located at `http://your.ip.address/4443/Portal` it will not be
 | 6 | .form-control { margin-bottom: 10px; } was added to `simple-sidebar.css`                                |   12     |   12 |
 |   |                                                                                                         |   100    |  70 |
 
-__3__ You have a `register.php` that has 0 bytes. You do have a `registration.php` but even that won't load because 
+__3__ You have a `register.php` that has 0 bytes in your partials folder. You do have a `registration.php` but even that won't load because 
 your switch statement is looking for `register.php`
 
